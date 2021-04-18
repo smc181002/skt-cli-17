@@ -20,3 +20,5 @@ How to use?
 
 when running the python file, the sender should provide the IP as argument of the
 receiver and ensure that there is connection between both the messaging clients
+
+When the user want to leave the chat, user can press `/exit` to exit the program.
